@@ -23,9 +23,9 @@ test('should link to contact information', function (assert){
     assert.equal(currentURL(), '/contact', 'should navigate to contact');
   })
 });
-test('should list available rentals', function (assert){
-});
-test('should filter available rentals by city', function (assert){
-});
-test('should show details for a selected rental', function (assert){
-});
+// test('should list available rentals', function (assert){
+// });
+// test('should filter available rentals by city', function (assert){
+// });
+// test('should show details for a selected rental', function (assert){
+// });
